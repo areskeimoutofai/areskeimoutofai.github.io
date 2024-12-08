@@ -1,5 +1,12 @@
+body {background-color:lightpink!important; 
+}
 h1{
 	color: 2px lightpink;
 	background-color: hotpink;
 	border: 2px lightpink;
+}
+p{ font-weight: bold;
+}
+.proti{width:60%
+       height:60%
 }
